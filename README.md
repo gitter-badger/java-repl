@@ -1,4 +1,5 @@
 # Java REPL
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/da0shi/java-repl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Java REPL is a simple Read-Eval-Print-Loop for Java language.
 
